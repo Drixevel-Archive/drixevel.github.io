@@ -9,7 +9,7 @@ h1 {
 }
 
 #block {
-    top: 50%;
+    top: 40%;
     left: 50%;
 	margin-left: -30em; /*set to a negative number 1/2 of your width*/
     width: 60em;
